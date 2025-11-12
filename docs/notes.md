@@ -8,3 +8,4 @@ Notes and usage details for qyvaria-hardlogic-kernel-engine.
 - fix a small wording issue
 - clarify the setup steps
 - clarify the setup steps
+- clarify the setup steps
