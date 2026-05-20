@@ -32,3 +32,4 @@ Notes and usage details for qyvaria-hardlogic-kernel-engine.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- clarify the setup steps
